@@ -1,6 +1,6 @@
 
 <fieldset>
-	<input type="text" name="word" id="word" value="Nehir">
+	<input type="text" name="word" id="word" value="">
 	<button onclick="return search();">search</button>
 </fieldset>
 <br/>
