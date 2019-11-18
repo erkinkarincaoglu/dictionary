@@ -1,6 +1,4 @@
 
-
-
 <fieldset>
 	<input type="text" name="word" id="word" value="word">
 	<button onclick="return search();">search</button>
