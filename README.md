@@ -1,7 +1,9 @@
 
 Search:
-<input type="text" name="word" id="word" value="word">
-<button onclick="return search();">search</button>
+<fieldset>
+	<input type="text" name="word" id="word" value="word">
+	<button onclick="return search();">search</button>
+</fieldset>
 <br/>
 <button onclick="return reset();">clear</button><br/>
 <br/>
